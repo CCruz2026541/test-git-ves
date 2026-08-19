@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 HOLA DESDE RAMA MAIN
-=======
 HOLA A TODOS DESDE RAMA CRUZ 
->>>>>>> 0648852 (fix: Se escribio saludo en Texto.txt)
